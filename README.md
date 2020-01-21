@@ -13,5 +13,6 @@
 </pre>
 
 <img src = "백준.png">
+()
 > Baekjoon Online Judge problem list
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
