@@ -12,7 +12,7 @@
   </code>
 </pre>
 
-![백준](백준.png)
+<img src = "백준.png" width = 100px, height = 100px>
 
 > Baekjoon Online Judge problem list
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
