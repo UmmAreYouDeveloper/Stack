@@ -4,10 +4,12 @@
 
 <pre>
   <code>
+  #include <stack>
+  
   using namespace std;
   
   int main(){
-      
+      stack<data type> name;
   }
   </code>
 </pre>
@@ -17,3 +19,9 @@
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
 
 >   >[9093번 단어뒤집기](https://www.acmicpc.net/problem/9093)
+
+>   >[9012번 괄호](boj.kr/9012)
+
+>   >[1874번 스택 수열](boj.kr/1874)
+
+>   >[1874번 에디터](boj.kr/1406)
