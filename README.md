@@ -4,10 +4,6 @@
 
 <pre>
   <code>
-  <iostream>
-  <cstring>
-  <string>
-  
   using namespace std;
   
   int main(){
