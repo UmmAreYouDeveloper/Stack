@@ -12,7 +12,7 @@
   </code>
 </pre>
 
-<img src = "백준.png" width = "60%"></img>
+<img src = "http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/big-square.png" width = "60%"></img>
 
 > Baekjoon Online Judge problem list
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
