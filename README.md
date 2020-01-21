@@ -4,12 +4,12 @@
 
 <pre>
   <code>
-  #include <stack>
+  #include &lt;stack&gt;
   
   using namespace std;
   
   int main(){
-      stack<data type> name;
+      stack&lt;data type&gt; name;
   }
   </code>
 </pre>
