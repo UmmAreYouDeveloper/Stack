@@ -20,8 +20,12 @@
 
 >   >[9093번 단어뒤집기](https://www.acmicpc.net/problem/9093)
 
->   >[9012번 괄호](boj.kr/9012)
+>   >[9012번 괄호](https://www.acmicpc.net/problem/9012)
 
->   >[1874번 스택 수열](boj.kr/1874)
+>   >[1874번 스택 수열](https://www.acmicpc.net/problem/1874)
 
->   >[1874번 에디터](boj.kr/1406)
+>   >[1406번 에디터](https://www.acmicpc.net/problem/1406)
+
+>   >[4949번 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
+
+>   >[10773번 제로](https://www.acmicpc.net/problem/10773)
