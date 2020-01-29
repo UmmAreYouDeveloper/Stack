@@ -16,6 +16,8 @@
 
 <img src = "http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/big-square.png" width = "20%"></img>
 
+<strong><h4>11개 문제</h4>
+
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
 
 >   >[9093번 단어뒤집기](https://www.acmicpc.net/problem/9093)
