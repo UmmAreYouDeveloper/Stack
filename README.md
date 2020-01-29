@@ -15,7 +15,7 @@
 </pre>
 
 <img src = "http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/big-square.png" width = "20%"></img>
-<li>
+
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
 
 >   >[9093번 단어뒤집기](https://www.acmicpc.net/problem/9093)
@@ -24,7 +24,7 @@
 
 >   >[1874번 스택 수열](https://www.acmicpc.net/problem/1874)
 
->   >[1406번 에디터](https://www.acmicpc.net/problem/1406)
+>   >[1406번 에디터](https://www.acmicpc.net/problem/14)
 
 >   >[4949번 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 
@@ -37,4 +37,3 @@
 >   >[17299번 오등큰수](https://www.acmicpc.net/problem/17299)
 
 >   >[17413번 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
-</li>
