@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9093_단어 뒤집기", "..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10773_제로", "..\10773_제로\10773.vcxproj", "{8CC852D5-3F56-40CF-8071-2F3506963274}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10799_쇠막대기", "..\10799_쇠막대기\10799_쇠막대기.vcxproj", "{DA90FFCB-22B8-4661-8B97-729C2B2F9521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{8CC852D5-3F56-40CF-8071-2F3506963274}.Release|x64.Build.0 = Release|x64
 		{8CC852D5-3F56-40CF-8071-2F3506963274}.Release|x86.ActiveCfg = Release|Win32
 		{8CC852D5-3F56-40CF-8071-2F3506963274}.Release|x86.Build.0 = Release|Win32
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Debug|x64.ActiveCfg = Debug|x64
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Debug|x64.Build.0 = Debug|x64
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Debug|x86.Build.0 = Debug|Win32
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Release|x64.ActiveCfg = Release|x64
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Release|x64.Build.0 = Release|x64
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Release|x86.ActiveCfg = Release|Win32
+		{DA90FFCB-22B8-4661-8B97-729C2B2F9521}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
