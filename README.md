@@ -16,7 +16,7 @@
 
 <img src = "http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/big-square.png" width = "20%"></img>
 
-<strong><h4>11개 문제</h4>
+<center><strong><h4>11개 문제</h4></strong></center>
 
 >   >[10828번 스택](https://www.acmicpc.net/problem/10828)
 
