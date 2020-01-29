@@ -1,2 +1,3 @@
-﻿  스택.cpp
-  10828.vcxproj -> C:\Users\유성민\Desktop\git\stack\10828\Debug\10828.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (10828.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  스택.cpp
+  10828.vcxproj -> C:\Users\유성민\Desktop\git\stack\10828_스택\Debug\10828_스택.exe

@@ -23,6 +23,7 @@
     <ProjectGuid>{F1197671-53AF-4DE8-8102-D2F7904AB5CF}</ProjectGuid>
     <RootNamespace>My4949</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4949_균형잡힌 세상</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
